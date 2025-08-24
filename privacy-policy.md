@@ -48,8 +48,7 @@ Your data remains secure because:
 
 If you have any questions or concerns about this privacy policy, please contact us at:
 
-**Email:** [jaswinder75892@gmail.com]  
-*(Replace with your actual email address)*
+**Email:** jaswinder75892@gmail.com
 
 ## 📝 Policy Updates
 
