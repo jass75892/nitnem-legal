@@ -1,0 +1,38 @@
+{
+  "minSupportedVersion": "1.0.0",
+  "latestVersion": "2.0.0",
+  "storeUrl": "https://play.google.com/store/apps/details?id=com.jass75892.nitnem",
+  "forceUpdate": false,
+  "releaseNotes": {
+    "punjabi": {
+      "added": [
+        "ਗੁਰਪੁਰਬਾਂ ਅਤੇ ਤਿਉਹਾਰਾਂ ਸਮੇਤ ਨਾਨਕਸ਼ਾਹੀ ਕੈਲੰਡਰ",
+        "ਬਾਰਹ ਮਾਹਾ (ਪੰਜਾਬੀ)"
+      ],
+      "fixed": [
+        "ਕੁਝ ਡਿਵਾਈਸਾਂ 'ਤੇ ਸ਼ੁਰੂਆਤੀ ਕਰੈਸ਼",
+        "ਪਾਠ ਦੀ ਪ੍ਰਗਤੀ ਠੀਕ ਤਰ੍ਹਾਂ ਸਾਫ਼ ਨਾ ਹੋਣਾ"
+      ]
+    },
+    "hindi": {
+      "added": [
+        "गुरपुरब और त्योहारों सहित नानकशाही कैलेंडर",
+        "बारह माहा (पंजाबी)"
+      ],
+      "fixed": [
+        "कुछ डिवाइसों पर शुरुआती क्रैश",
+        "पाठ की प्रगति ठीक से साफ़ न होना"
+      ]
+    },
+    "english": {
+      "added": [
+        "Nanakshahi calendar with Gurpurabs and festivals",
+        "Barah Maha (Punjabi version)"
+      ],
+      "fixed": [
+        "Startup crash on some devices",
+        "Reading progress not clearing correctly"
+      ]
+    }
+  }
+}

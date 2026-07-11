@@ -5,7 +5,7 @@
 This document outlines the privacy practices for the **Nitnem** mobile application.
 
 ## 📅 Effective Date
-**August 24, 2025**
+**July 11, 2026**
 
 ## 🔒 Privacy Commitment
 
@@ -27,22 +27,42 @@ Nitnem ("we", "our", or "the app") is committed to protecting your privacy and e
 
 ## 🌐 Data Sharing & Transmission
 
-### No External Data Transmission
-- 📶 **No data is sent** to our servers
-- 🤝 **No data is shared** with third parties
-- 🌍 **No internet connection required** for core functionality
+### No Personal Data Transmission
+- 📶 **No personal data is sent** to our servers
+- 🤝 **No personal data is shared** with third parties
+- 🌍 **Core prayer functionality works fully offline**
+
+### Update Checks (Network Use)
+- 🔄 When you are connected to the internet, the app fetches a small public
+  configuration file to check whether a newer version of the app is available.
+- 📥 This request **only downloads version information** (latest version number
+  and release notes). **No personal data is uploaded or transmitted** in the process.
+- 🚫 If you are offline, the update check is skipped and the app continues to work normally.
 
 ### Offline Functionality
-- 📱 The app works **fully offline**
-- 🔄 All data remains **local to your device**
-- 🗄️ No cloud synchronization or backup
+- 📱 The app's prayers and content work **fully offline**
+- 🔄 All your personal preferences and progress remain **local to your device**
+- 🗄️ No cloud synchronization or backup of your data
+
+## 🔗 Third-Party Links, Advertisements & Donations
+
+- The app may display **links, promotional content, or advertisements** that,
+  when tapped, open a **third-party website or application** (for example, a
+  browser or a payment provider).
+- If a **donation option** is offered, it redirects you to a **third-party
+  payment provider** (such as a website or UPI/payment app). We do **not**
+  collect or store any payment or card information within the app.
+- Once you leave the app through such a link, your activity is governed by the
+  **privacy policy of that third-party service**, not by this policy. We
+  encourage you to review their policies before providing any information.
 
 ## 🔐 Security
 
 Your data remains secure because:
-- All stored information remains on your device
-- No external APIs or services are called
-- No network permissions are required
+- All your personal information remains on your device
+- The only network request the app makes is a read-only check for app updates,
+  which transmits **no personal data**
+- No personal or payment data is ever collected by the app
 
 ## 📞 Contact Information
 
@@ -63,4 +83,4 @@ This privacy policy complies with:
 
 ---
 
-*Last Updated: August 24, 2025*
+*Last Updated: July 11, 2026*
