@@ -3,6 +3,15 @@
   "latestVersion": "2.0.0",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.jass75892.nitnem",
   "forceUpdate": false,
+  "donationUrl": "https://razorpay.me/@jass75892",
+  "ads": [
+    {
+      "fileName": "devcraftly.gif",
+      "url": "https://www.devcraftly.com",
+      "type": "image",
+      "status": "active"
+    }
+  ],
   "releaseNotes": {
     "punjabi": {
       "added": [
