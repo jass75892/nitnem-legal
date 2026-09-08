@@ -1,6 +1,6 @@
 {
   "minSupportedVersion": "1.0.0",
-  "latestVersion": "2.0.0",
+  "latestVersion": "2.1.0",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.jass75892.nitnem",
   "forceUpdate": false,
   "donationUrl": "https://razorpay.me/@jass75892",
@@ -15,32 +15,35 @@
   "releaseNotes": {
     "punjabi": {
       "added": [
-        "ਗੁਰਪੁਰਬਾਂ ਅਤੇ ਤਿਉਹਾਰਾਂ ਸਮੇਤ ਨਾਨਕਸ਼ਾਹੀ ਕੈਲੰਡਰ",
-        "ਬਾਰਹ ਮਾਹਾ (ਪੰਜਾਬੀ)"
+        "ਪਾਠ ਦੌਰਾਨ ਆਟੋ-ਸਕਰੋਲ ਦਾ ਵਿਕਲਪ",
+        "ਪਾਠ ਮੋਟਾਈ (ਫੌਂਟ ਵੇਟ) ਬਦਲਣ ਦਾ ਵਿਕਲਪ",
+        "ਪਾਠ ਆਕਾਰ ਹੁਣ ਹੋਰ ਵੱਡਾ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ"
       ],
       "fixed": [
-        "ਕੁਝ ਡਿਵਾਈਸਾਂ 'ਤੇ ਸ਼ੁਰੂਆਤੀ ਕਰੈਸ਼",
-        "ਪਾਠ ਦੀ ਪ੍ਰਗਤੀ ਠੀਕ ਤਰ੍ਹਾਂ ਸਾਫ਼ ਨਾ ਹੋਣਾ"
+        "ਐਪ ਹੁਣ ਪਹਿਲਾਂ ਨਾਲੋਂ ਤੇਜ਼ ਤੇ ਭਰੋਸੇਯੋਗ ਹੈ",
+        "ਪੜ੍ਹਨ ਦਾ ਸਮਾਂ ਤੇ ਪ੍ਰਗਤੀ ਹੁਣ ਭਰੋਸੇ ਨਾਲ ਸੰਭਾਲੀ ਜਾਂਦੀ ਹੈ"
       ]
     },
     "hindi": {
       "added": [
-        "गुरपुरब और त्योहारों सहित नानकशाही कैलेंडर",
-        "बारह माहा (पंजाबी)"
+        "पाठ के दौरान ऑटो-स्क्रॉल का विकल्प",
+        "पाठ मोटाई (फ़ॉन्ट वेट) बदलने का विकल्प",
+        "पाठ आकार अब और बड़ा किया जा सकता है"
       ],
       "fixed": [
-        "कुछ डिवाइसों पर शुरुआती क्रैश",
-        "पाठ की प्रगति ठीक से साफ़ न होना"
+        "ऐप अब पहले से तेज़ और भरोसेमंद है",
+        "पढ़ने का समय और प्रगति अब भरोसे से सहेजी जाती है"
       ]
     },
     "english": {
       "added": [
-        "Nanakshahi calendar with Gurpurabs and festivals",
-        "Barah Maha (Punjabi version)"
+        "Auto-scroll while reading",
+        "Font weight (boldness) control",
+        "Larger font size option"
       ],
       "fixed": [
-        "Startup crash on some devices",
-        "Reading progress not clearing correctly"
+        "App is now faster and more reliable",
+        "Reading time and progress are now saved reliably"
       ]
     }
   }
