@@ -1,6 +1,6 @@
 {
   "minSupportedVersion": "1.0.0",
-  "latestVersion": "2.1.0",
+  "latestVersion": "2.1.1",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.jass75892.nitnem",
   "forceUpdate": false,
   "donationUrl": "https://razorpay.me/@jass75892",
@@ -14,36 +14,27 @@
   ],
   "releaseNotes": {
     "punjabi": {
-      "added": [
-        "ਪਾਠ ਦੌਰਾਨ ਆਟੋ-ਸਕਰੋਲ ਦਾ ਵਿਕਲਪ",
-        "ਪਾਠ ਮੋਟਾਈ (ਫੌਂਟ ਵੇਟ) ਬਦਲਣ ਦਾ ਵਿਕਲਪ",
-        "ਪਾਠ ਆਕਾਰ ਹੁਣ ਹੋਰ ਵੱਡਾ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ"
-      ],
       "fixed": [
-        "ਐਪ ਹੁਣ ਪਹਿਲਾਂ ਨਾਲੋਂ ਤੇਜ਼ ਤੇ ਭਰੋਸੇਯੋਗ ਹੈ",
-        "ਪੜ੍ਹਨ ਦਾ ਸਮਾਂ ਤੇ ਪ੍ਰਗਤੀ ਹੁਣ ਭਰੋਸੇ ਨਾਲ ਸੰਭਾਲੀ ਜਾਂਦੀ ਹੈ"
+        "ਪੜ੍ਹਨ ਵੇਲੇ ਆਟੋ-ਸਕ੍ਰੋਲ ਹੁਣ ਆਖਰੀ ਸਤਰਾਂ ਤੱਕ ਸਹੀ ਢੰਗ ਨਾਲ ਚੱਲਦਾ ਹੈ (ਪਹਿਲਾਂ ਸਮੇਂ ਤੋਂ ਪਹਿਲਾਂ ਰੁਕ ਜਾਂਦਾ ਸੀ)।",
+        "ਸੈਟਿੰਗਜ਼ ਵਿੱਚ ਵੱਡਾ ਫੌਂਟ ਸਾਈਜ਼ (100) ਚੁਣਨ 'ਤੇ ਪ੍ਰੀਵਿਊ ਹੁਣ ਕੱਟਿਆ ਨਹੀਂ ਜਾਂਦਾ।",
+        "ਸੈਟਿੰਗਜ਼ ਅਤੇ ਰੀਡਰ ਸਕ੍ਰੀਨ ਦਾ ਫੌਂਟ ਸਾਈਜ਼ ਹੁਣ ਇੱਕੋ ਜਿਹਾ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ।",
+        "ਪੌੜੀਆਂ ਵਿਚਕਾਰਲੀਆਂ ਖਾਲੀ ਸਤਰਾਂ ਵਿੱਚ ਬੇਲੋੜੀ ਜ਼ਿਆਦਾ ਥਾਂ ਠੀਕ ਕੀਤੀ।"
       ]
     },
     "hindi": {
-      "added": [
-        "पाठ के दौरान ऑटो-स्क्रॉल का विकल्प",
-        "पाठ मोटाई (फ़ॉन्ट वेट) बदलने का विकल्प",
-        "पाठ आकार अब और बड़ा किया जा सकता है"
-      ],
       "fixed": [
-        "ऐप अब पहले से तेज़ और भरोसेमंद है",
-        "पढ़ने का समय और प्रगति अब भरोसे से सहेजी जाती है"
+        "पढ़ते समय ऑटो-स्क्रॉल अब आखिरी पंक्तियों तक सही तरीके से चलता है (पहले समय से पहले रुक जाता था)।",
+        "सेटिंग्स में बड़ा फ़ॉन्ट साइज़ (100) चुनने पर प्रीव्यू अब कटता नहीं है।",
+        "सेटिंग्स और रीडर स्क्रीन का फ़ॉन्ट साइज़ अब एक जैसा दिखाई देता है।",
+        "पौड़ियों के बीच खाली पंक्तियों में अनावश्यक ज़्यादा जगह ठीक की गई।"
       ]
     },
     "english": {
-      "added": [
-        "Auto-scroll while reading",
-        "Font weight (boldness) control",
-        "Larger font size option"
-      ],
       "fixed": [
-        "App is now faster and more reliable",
-        "Reading time and progress are now saved reliably"
+        "Auto-scroll while reading now runs correctly all the way to the last lines (previously it could stop early).",
+        "The preview no longer gets cut off when selecting a large font size (100) in Settings.",
+        "Font size in Settings and the Reader screen now appears consistent.",
+        "Fixed excessive extra spacing in blank lines between paurees."
       ]
     }
   }
